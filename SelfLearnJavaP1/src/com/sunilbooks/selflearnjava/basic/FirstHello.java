@@ -13,7 +13,7 @@ package com.sunilbooks.selflearnjava.basic;
 public class FirstHello {
 	public static void main(String[] args) {
 
-		System.out.println("Hello SUNRAYS");
+		System.out.println("Hello sunRays");
 
 		// Define a string variable and run same program
 		String name = "SUNRAYS";
